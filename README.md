@@ -1,5 +1,4 @@
-
-![Andrew Suadnya](https://github.com/andrewsuadnya/andrewsuadnya/assets/90898706/e0e9f57c-4b31-48c0-b600-18007ce936a9.gif)
+![Github Andrew Suadnya](https://github.com/andrewsuadnya/andrewsuadnya/assets/90898706/3d14cedb-837c-4c60-b87a-5ffc1363f11b)
 # 💫 About Me:
 🔭 I’m currently studying **Informatics Engineering at Sam Ratulangi University**<br>🌱 I’m currently learning **Data Engineer at Digital Skola**<br>📫 How to reach me **andrewsuadnya0@gmail.com**
 <img align="right" alt="Coding" width="380" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
