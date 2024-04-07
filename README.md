@@ -1,6 +1,6 @@
 ![Github Andrew Suadnya](https://github.com/andrewsuadnya/andrewsuadnya/assets/90898706/3d14cedb-837c-4c60-b87a-5ffc1363f11b)
 # 💫 About Me:
-🔭 I’m currently studying **Informatics Engineering at Sam Ratulangi University**<br>🌱 I’m currently learning **Data Engineer at Digital Skola**<br>📫 How to reach me **andrewsuadnya0@gmail.com**
+👋 Hi, I’m **Andrew Suadnya**<br>👀 I’m interested in the field of **Data**, particularly in **Data Engineering**<br>🔭 I’m currently studying **Informatics Engineering at Sam Ratulangi University**<br>🌱 I’m currently learning **Data Engineer at Digital Skola**<br>📫 How to reach me **andrewsuadnya0@gmail.com**
 <img align="right" alt="Coding" width="380" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 ## 🌐 Socials:
