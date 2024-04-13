@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 Most Used Languages:
 <p align="center">
-<img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewsuadnya&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewsuadnya&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 ## Top Repositories
@@ -40,7 +40,7 @@
 
 ### 😂 Random Dev Meme
 <p align="center">
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;">
+<img src='https://randommeme-five.vercel.app/' style="height: 350px;">
 </p>
 
 ---
