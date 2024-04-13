@@ -1,8 +1,6 @@
 ![Github Andrew Suadnya](https://github.com/andrewsuadnya/andrewsuadnya/assets/90898706/3d14cedb-837c-4c60-b87a-5ffc1363f11b)
 # 💫 About Me:
 ### 👋 Hi, I'm <a href="https://github.com/andrewsuadnya">Andrew Suadnya</a> 
-<img align="right" alt="Coding" width="380" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
-
 👀 I’m interested in the field of **Data**, particularly in **Data Engineering**<br>🔭 I’m currently studying **Informatics Engineering at Sam Ratulangi University**<br>🌱 I’m currently learning **Data Engineer at Digital Skola**<br>📫 How to reach me **andrewsuadnya0@gmail.com**
 
 ## 🌐 Socials:
@@ -13,17 +11,17 @@
 
 ## 📊 My Stats:
 <p align="center">
-<img height="250px" src="https://github-readme-stats.vercel.app/api?username=andrewsuadnya&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true">
+<img height="210px" src="https://github-readme-stats.vercel.app/api?username=andrewsuadnya&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true">
 </p>
 
 ## 🚀 Activity On GitHub:
 <p align="center">
-<img height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=andrewsuadnya&theme=blue-green&hide_border=true">
+<img height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=andrewsuadnya&theme=blue-green&hide_border=true">
 </p>
 
 ## 🧑‍💻 Most Used Languages:
 <p align="center">
-<img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewsuadnya&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewsuadnya&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 ## Top Repositories
@@ -35,7 +33,7 @@
 
 ### ✍️ Random Dev Quote
 <p align="center">
-<img height="350px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko">
+<img height="300px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko">
 </p>
 
 ### 😂 Random Dev Meme
