@@ -26,7 +26,7 @@
 <img height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=andrewsuadnya&theme=blue-green&hide_border=true">
 </p>
 
-## Top Repositories
+## 🌟 Top Repositories
   <p align="center">
      <a href="https://github.com/andrewsuadnya/HI-FIVE-Website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewsuadnya&repo=HI-FIVE-Website&theme=react&bg_color=040f0f&title_color=2f97c1&text_color=0cf574&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/andrewsuadnya/JAPRI-Website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewsuadnya&repo=JAPRI-Website&theme=react&bg_color=040f0f&title_color=2f97c1&text_color=0cf574&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
