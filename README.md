@@ -1,7 +1,4 @@
-![Github Andrew Suadnya](https://github.com/andrewsuadnya/andrewsuadnya/assets/90898706/3d14cedb-837c-4c60-b87a-5ffc1363f11b)
-
 ![git](https://github.com/andrewsuadnya/andrewsuadnya/assets/90898706/ab74d031-b2cb-4858-b586-d2cf236a23ec)
-
 # 💫 About Me:
 <img align="right" alt="Coding" width="285" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
