@@ -1,6 +1,6 @@
 ![Github Andrew Suadnya](https://github.com/andrewsuadnya/andrewsuadnya/assets/90898706/3d14cedb-837c-4c60-b87a-5ffc1363f11b)
 # 💫 About Me:
-### 👋 Hi, I’m **Andrew Suadnya**
+### 👋 Hi, I'm <a href="https://github.com/andrewsuadnya">Andrew Suadnya</a>
 👀 I’m interested in the field of **Data**, particularly in **Data Engineering**<br>🔭 I’m currently studying **Informatics Engineering at Sam Ratulangi University**<br>🌱 I’m currently learning **Data Engineer at Digital Skola**<br>📫 How to reach me **andrewsuadnya0@gmail.com**
 <img align="right" alt="Coding" width="380" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
@@ -14,11 +14,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andrewsuadnya&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewsuadnya&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=andrewsuadnya&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true">
+</p>
+
 # Top Repositories
   <p align="left">
-     <a href="https://github.com/andrewsuadnya/Profile-Badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewsuadnya&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/andrewsuadnya/IP-Finder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewsuadnya&repo=IP-Finder&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/ChatCool-Inc/chatcool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+     <a href="https://github.com/andrewsuadnya/HI-FIVE-Website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewsuadnya&repo=HI-FIVE-Website&theme=react&bg_color=040f0f&title_color=2f97c1&text_color=0cf574&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/andrewsuadnya/JAPRI-Website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewsuadnya&repo=JAPRI-Website&theme=react&bg_color=040f0f&title_color=2f97c1&text_color=0cf574&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/andrewsuadnya/Edge-Detection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewsuadnya&repo=Edge-Detection&theme=react&bg_color=040f0f&title_color=2f97c1&text_color=0cf574&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
 ### ✍️ Random Dev Quote
