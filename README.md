@@ -33,12 +33,12 @@
    <a href="https://github.com/andrewsuadnya/Edge-Detection"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewsuadnya&repo=Edge-Detection&theme=react&bg_color=040f0f&title_color=2f97c1&text_color=0cf574&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <p align="center">
 <img height="300px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko">
 </p>
 
-### 😂 Random Dev Meme
+## 😂 Random Dev Meme
 <p align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 350px;">
 </p>
