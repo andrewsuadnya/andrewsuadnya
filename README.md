@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="285" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 ### 👋 Hi, I'm <a href="https://github.com/andrewsuadnya">Andrew Suadnya</a>
-👀 I’m interested in the field of **Data**, particularly in **Data Engineering**<br>🔭 I’m currently studying **Informatics Engineering at Sam Ratulangi University**<br>🌱 I’m currently learning **Data Engineer at Digital Skola**<br>📫 How to reach me **andrewsuadnya0@gmail.com**
+👀 I’m interested in the field of **Data**, particularly in **Data Engineering**<br>🔭 I’m currently studying **Informatics Engineering** at **Sam Ratulangi University**<br>🌱 I’m currently learning **Data Engineering** at **Digital Skola**<br>📫 How to reach me **andrewsuadnya0@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewsuadnya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andrewsuadnya_)
