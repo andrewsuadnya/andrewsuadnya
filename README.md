@@ -38,10 +38,5 @@
 <img height="300px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko">
 </p>
 
-## 😂 Random Dev Meme
-<p align="center">
-<img src='https://randommeme-five.vercel.app/' style="height: 350px;">
-</p>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=andrewsuadnya&icon=5&color=0)](https://visitcount.itsvg.in)
