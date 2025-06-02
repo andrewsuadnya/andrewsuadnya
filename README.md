@@ -1,4 +1,4 @@
-![git](https://github.com/andrewsuadnya/andrewsuadnya/assets/90898706/ab74d031-b2cb-4858-b586-d2cf236a23ec)
+![Image](https://github.com/user-attachments/assets/d794ac1c-ade5-4563-9694-7f9da105d55f)
 # 💫 About Me:
 <img align="right" alt="Coding" width="285" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
