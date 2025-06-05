@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/d794ac1c-ade5-4563-9694-7f9da105d55f)
+![Image](https://github.com/user-attachments/assets/cc54e778-bb44-40bc-b4f9-787fc2838544)
 # 💫 About Me:
 <img align="right" alt="Coding" width="285" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
