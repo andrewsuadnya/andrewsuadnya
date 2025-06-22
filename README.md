@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/cc54e778-bb44-40bc-b4f9-787fc2838544)
 # 💫 About Me:
-<img align="right" alt="Coding" width="285" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+<img align="right" alt="Coding" width="310" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 ### <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 21px> Hi, I'm <a href="https://github.com/andrewsuadnya">Andrew Suadnya</a>
 👀 I’m interested in the field of **Data**, particularly in **Data Engineering**<br>🎓 Bachelor’s Degree in **Informatics Engineering, Sam Ratulangi University, Manado**<br>🌱 Ex-**Data Engineer** Trainee at **Digital Skola**<br>📫 How to reach me: **andrewsuadnya@gmail.com**
