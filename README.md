@@ -31,6 +31,19 @@
 <img height="300px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko">
 </p>
 
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewsuadnya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewsuadnya&layout=compact&langs_count=7&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117"/>
+  
+  <img width="580em" src="https://github-readme-streak-stats.herokuapp.com/?user=andrewsuadnya&theme=tokyonight&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7"/>
+</div>
+
+<br>
+
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=andrewsuadnya&style=flat-square&color=0cf574)
 
