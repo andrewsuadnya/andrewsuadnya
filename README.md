@@ -23,9 +23,6 @@
 <img height="300px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko">
 </p>
 
-<br>
-
----
 # 🚀 Data Engineering Projects
 
 <div align="center">
@@ -42,6 +39,9 @@
 
 </div>
 
+<br>
+
+---
 ![Profile Views](https://komarev.com/ghpvc/?username=andrewsuadnya&style=flat-square&color=0cf574)
 
 <div align="center">
