@@ -26,6 +26,22 @@
 </p>
 
 ---
+## 🚀 Data Engineering Projects
+
+<div align="center">
+
+### YouTube Live Chat Sentiment Analysis 📊📈📉
+> Near Real-time YouTube Live Chat Sentiment Analysis using Big Data Stack — Built with Kafka, Spark Structured Streaming, Elasticsearch, Kibana, Flask, and React.js to collect, process, and analyze live chat.
+
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/YouTube-Live-Chat-Sentiment-Analysis)
+
+### Automated Finnhub News Sentiment Pipeline 📰📊
+> This project is a part of the final project Data Engineering at Digital Skola
+
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/FinalProject_DE_DigitalSkola)
+
+</div><be>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=andrewsuadnya&style=flat-square&color=0cf574)
 
 <div align="center">
