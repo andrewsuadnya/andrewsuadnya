@@ -18,15 +18,15 @@
   <img width="580em" src="https://github-readme-streak-stats.herokuapp.com/?user=andrewsuadnya&theme=blue-green&hide_border=true">
 </div>
 
-<br>
-
 # ✍️ Random Dev Quote
 <p align="center">
 <img height="300px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko">
 </p>
 
+<br>
+
 ---
-## 🚀 Data Engineering Projects
+# 🚀 Data Engineering Projects
 
 <div align="center">
 
@@ -40,10 +40,10 @@
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/FinalProject_DE_DigitalSkola)
 
-</div><be>
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=andrewsuadnya&style=flat-square&color=0cf574)
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=32&duration=3000&pause=1000&color=f3f3f3&center=true&vCenter=true&width=450&lines=Hello,+I'm+Andrew;Data+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=32&duration=3000&pause=1000&color=f3f3f3&center=true&vCenter=true&width=450&lines=Data+Engineer" alt="Typing SVG" />
 </div>
