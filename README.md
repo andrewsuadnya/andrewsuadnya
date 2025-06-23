@@ -20,11 +20,10 @@
 
 # ✍️ Random Dev Quote
 <p align="center">
-<img height="300px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko">
+<img height="300px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
 </p>
 
 # 🚀 Data Engineering Projects
-
 <div align="center">
 
 ### YouTube Live Chat Sentiment Analysis 📊📈📉
