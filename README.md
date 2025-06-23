@@ -13,9 +13,9 @@
 
 # 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewsuadnya&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewsuadnya&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-  <img width="580em" src="https://github-readme-streak-stats.herokuapp.com/?user=andrewsuadnya&theme=blue-green&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewsuadnya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewsuadnya&layout=compact&langs_count=7&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117"/>
+  <img width="580em" src="https://github-readme-streak-stats.herokuapp.com/?user=andrewsuadnya&theme=tokyonight&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7"/>
 </div>
 
 # ✍️ Random Dev Quote
