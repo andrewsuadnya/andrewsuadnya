@@ -20,7 +20,7 @@
 
 # ✍️ Random Dev Quote
 <p align="center">
-<img height="300px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
+<img height="300px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight">
 </p>
 
 # 🚀 Data Engineering Projects
