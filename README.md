@@ -1,14 +1,14 @@
 ![github](https://github.com/user-attachments/assets/bd8d0fe0-260e-4fe2-b6ed-c3ab93c89034)
 <header>
   <div align="center">
-    <a href="mailto:andrewsuadnya@gmail.com">
-      <img alt="My Gmail" src="https://img.shields.io/badge/Gmail-andrewsuadnya@gmail.com-5fd0fe?style=flat&logo=gmail&logoColor=ffffff&labelColor=334155">
-    </a>
     <a href="https://portofolio-andrewsuadnya.my.canva.site/portofolio-andrewsuadnya-situs-web">
       <img alt="My Portfolio" src="https://img.shields.io/badge/Portfolio-Andrew_Suadnya-5fd0fe?style=flat&logo=canva&logoColor=ffffff&labelColor=334155">
     </a>
     <a href="https://www.linkedin.com/in/andrewsuadnya/">
       <img alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-andrewsuadnya-5fd0fe?style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155">
+    </a>
+    <a href="https://www.kaggle.com/andrewsuadnya">
+      <img alt="My Kaggle" src="https://img.shields.io/badge/Kaggle-andrewsuadnya-5fd0fe?style=flat&logo=kaggle&labelColor=334155">
     </a>
   </div>
 </header>
