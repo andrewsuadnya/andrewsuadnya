@@ -15,7 +15,7 @@
 
 <br>
 
-<img align="right" alt="Coding" width="290" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+<img align="right" alt="Coding" width="280" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 # 💫 About Me:
 ### <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 21px> Hi, I'm <a href="https://github.com/andrewsuadnya">Andrew Suadnya</a>
