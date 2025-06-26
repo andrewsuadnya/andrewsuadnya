@@ -2,13 +2,13 @@
 <header>
   <div align="center">
     <a href="mailto:andrewsuadnya@gmail.com">
-      <img alt="My Gmail" src="https://img.shields.io/badge/Gmail-andrewsuadnya@gmail.com-00A8A3?style=flat&logo=gmail&logoColor=ffffff&labelColor=334155">
+      <img alt="My Gmail" src="https://img.shields.io/badge/Gmail-andrewsuadnya@gmail.com-5fd0fe?style=flat&logo=gmail&logoColor=ffffff&labelColor=334155">
     </a>
     <a href="https://portofolio-andrewsuadnya.my.canva.site/portofolio-andrewsuadnya-situs-web">
-      <img alt="My Portfolio" src="https://img.shields.io/badge/Portfolio-Andrew_Suadnya-00A8A3?style=flat&logo=canva&logoColor=ffffff&labelColor=334155">
+      <img alt="My Portfolio" src="https://img.shields.io/badge/Portfolio-Andrew_Suadnya-5fd0fe?style=flat&logo=canva&logoColor=ffffff&labelColor=334155">
     </a>
     <a href="https://www.linkedin.com/in/andrewsuadnya/">
-      <img alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-andrewsuadnya-00A8A3?style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155">
+      <img alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-andrewsuadnya-5fd0fe?style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155">
     </a>
   </div>
 </header>
