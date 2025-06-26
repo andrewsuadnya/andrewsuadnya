@@ -47,6 +47,31 @@
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/FinalProject_DE_DigitalSkola)
 
+### Monthly Order Reporting using Hadoop MapReduce 📊
+> ETL project using Hadoop MapReduce to aggregate monthly order data from PostgreSQL into a reporting data mart.
+
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/PROJECT6-DataEngineering-DigitalSkola)
+
+### Flask CRUD API with PostgreSQL and Docker
+> Flask CRUD API with PostgreSQL and Docker for user management. Features create, read, update, delete operations, health checks, and containerized setup. Test with Postman!
+
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/PROJECT5-DataEngineering-DigitalSkola)
+
+### Dockerized ETL Pipeline: MySQL to PostgreSQL
+> Dockerized ETL pipeline to transfer data from MySQL (global_youtube_stat.csv) to a PostgreSQL Data Warehouse using Python.
+
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/PROJECT4-DataEngineering-DigitalSkola)
+
+### Batch ETL to PostgreSQL Data Warehouse
+> ETL pipeline project to migrate order data from PostgreSQL to a data warehouse (dim_orders) using Python.
+
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/PROJECT3-DataEngineering-DigitalSkola)
+
+### Create Data Warehouse Using DBT in Postgresql
+> A data warehouse project built with DBT (Data Build Tool) and PostgreSQL.
+
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/PROJECT2-DataEngineering-DigitalSkola)
+
 </div>
 
 <br>
