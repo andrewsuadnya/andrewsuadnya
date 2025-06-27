@@ -1,8 +1,8 @@
 ![github](https://github.com/user-attachments/assets/bd8d0fe0-260e-4fe2-b6ed-c3ab93c89034)
 <header>
   <div align="center">
-    <a href="https://portofolio-andrewsuadnya.my.canva.site/portofolio-andrewsuadnya-situs-web">
-      <img alt="My Portfolio" src="https://img.shields.io/badge/Portfolio-Andrew_Suadnya-5fd0fe?style=flat&logo=canva&logoColor=ffffff&labelColor=334155">
+    <a href="https://github.com/andrewsuadnya">
+      <img alt="My GitHub" src="https://img.shields.io/badge/GitHub-andrewsuadnya-5fd0fe?style=flat&logo=github&labelColor=334155">
     </a>
     <a href="https://www.linkedin.com/in/andrewsuadnya/">
       <img alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-andrewsuadnya-5fd0fe?style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155">
