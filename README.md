@@ -72,7 +72,7 @@
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/PROJECT3-DataEngineering-DigitalSkola)
 
-### Create Data Warehouse Using DBT in Postgresql
+### Data Warehouse Using DBT in Postgresql
 > A data warehouse project built with DBT (Data Build Tool) and PostgreSQL.
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/PROJECT2-DataEngineering-DigitalSkola)
