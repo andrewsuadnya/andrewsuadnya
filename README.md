@@ -42,10 +42,15 @@
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/YouTube-Live-Chat-Sentiment-Analysis)
 
-### Automated Finnhub News Sentiment Pipeline 📰📊
-> This project is a part of the final project Data Engineering at Digital Skola
+### Automated Data Pipeline for Financial News Sentiment Analysis 📰📊
+> Automated data pipeline that extracts financial news from the Finnhub API, stores it in MongoDB, performs sentiment analysis, and loads the results into PostgreSQL. All processes are scheduled and managed using Apache Airflow.
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/FinalProject_DE_DigitalSkola)
+
+### Stream Analytics with Kafka and Python
+> End-to-end real-time data pipeline using Kafka and Python for text sentiment analysis. Designed to simulate streaming analytics use cases.
+
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/PROJECT8-DataEngineering-DigitalSkola)
 
 ### Monthly Order Reporting using Hadoop MapReduce 📊
 > ETL project using Hadoop MapReduce to aggregate monthly order data from PostgreSQL into a reporting data mart.
