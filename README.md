@@ -82,8 +82,8 @@
 <br>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=andrewsuadnya&style=flat-square&color=0cf574)
-
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=32&duration=3000&pause=1000&color=f3f3f3&center=true&vCenter=true&width=450&lines=Data+Engineer" alt="Typing SVG" />
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=andrewsuadnya&style=flat-square&color=0cf574)
