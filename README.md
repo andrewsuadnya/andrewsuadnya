@@ -42,7 +42,7 @@
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/YouTube-Live-Chat-Sentiment-Analysis)
 
-### 📰 Automated Data Pipeline for Financial News Sentiment Analysis
+### 📰 Automated Financial News Sentiment Pipeline with Airflow
 > A fully automated data pipeline that ingests financial news from Finnhub API, stores it in MongoDB Atlas, performs sentiment analysis, and loads results into PostgreSQL — orchestrated using Apache Airflow.
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/FinalProject_DE_DigitalSkola)
