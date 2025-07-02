@@ -37,43 +37,43 @@
 # 🚀 Data Engineering Projects
 <div align="center">
 
-### YouTube Live Chat Sentiment Analysis 📊📈📉
-> Near Real-time YouTube Live Chat Sentiment Analysis using Big Data Stack — Built with Kafka, Spark Structured Streaming, Elasticsearch, Kibana, Flask, and React.js to collect, process, and analyze live chat.
+### 📊 YouTube Live Chat Sentiment Analysis
+> A near real-time sentiment analysis system for YouTube live chat using a big data stack. Built with Kafka, Spark Structured Streaming, Elasticsearch, Kibana, Flask, and React.js to collect, process, and visualize live messages.
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/YouTube-Live-Chat-Sentiment-Analysis)
 
-### Automated Data Pipeline for Financial News Sentiment Analysis 📰📊
-> Automated data pipeline that extracts financial news from the Finnhub API, stores it in MongoDB, performs sentiment analysis, and loads the results into PostgreSQL. All processes are scheduled and managed using Apache Airflow.
+### 📰 Automated Data Pipeline for Financial News Sentiment Analysis
+> A fully automated data pipeline that ingests financial news from Finnhub API, stores it in MongoDB Atlas, performs sentiment analysis, and loads results into PostgreSQL — orchestrated using Apache Airflow.
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/FinalProject_DE_DigitalSkola)
 
-### Stream Analytics with Kafka and Python
-> End-to-end real-time data pipeline using Kafka and Python for text sentiment analysis. Designed to simulate streaming analytics use cases.
+### 💬 Real-Time Text Stream Analytics with Kafka & Python
+> End-to-end streaming pipeline using Kafka and Python to generate random sentences, publish to Kafka, and analyze their sentiment in real-time.
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/PROJECT8-DataEngineering-DigitalSkola)
 
-### Monthly Order Reporting using Hadoop MapReduce 📊
-> ETL project using Hadoop MapReduce to aggregate monthly order data from PostgreSQL into a reporting data mart.
+### 📈 Monthly Order Aggregation with Hadoop MapReduce
+> A batch ETL project using Hadoop MapReduce to transform and aggregate monthly order data from PostgreSQL into a data mart for reporting.
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/PROJECT6-DataEngineering-DigitalSkola)
 
-### Flask CRUD API with PostgreSQL and Docker
-> Flask CRUD API with PostgreSQL and Docker for user management. Features create, read, update, delete operations, health checks, and containerized setup. Test with Postman!
+### 🔧 Flask RESTful API with PostgreSQL and Docker
+> A containerized CRUD API built with Flask and PostgreSQL. Includes RESTful endpoints for user management, health checks, and supports testing via Postman.
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/PROJECT5-DataEngineering-DigitalSkola)
 
-### Dockerized ETL Pipeline: MySQL to PostgreSQL
-> Dockerized ETL pipeline to transfer data from MySQL (global_youtube_stat.csv) to a PostgreSQL Data Warehouse using Python.
+### 🛠️ ETL Pipeline: MySQL to PostgreSQL using Docker
+> A Dockerized ETL pipeline that extracts data from MySQL (CSV-based), transforms it using Python, and loads it into a PostgreSQL Data Warehouse.
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/PROJECT4-DataEngineering-DigitalSkola)
 
-### Batch ETL to PostgreSQL Data Warehouse
-> ETL pipeline project to migrate order data from PostgreSQL to a data warehouse (dim_orders) using Python.
+### 📦 Batch ETL for Order Data to PostgreSQL Warehouse
+> Python-based batch ETL project that migrates and transforms order data from a PostgreSQL source to a data warehouse schema (`dim_orders`).
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/PROJECT3-DataEngineering-DigitalSkola)
 
-### Data Warehouse Using DBT in Postgresql
-> A data warehouse project built with DBT (Data Build Tool) and PostgreSQL.
+### 🧱 Building a Data Warehouse with DBT & PostgreSQL
+> A data warehouse project using DBT (Data Build Tool) for modeling, transformation, and testing on top of PostgreSQL.
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewsuadnya/PROJECT2-DataEngineering-DigitalSkola)
 
